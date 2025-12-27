@@ -53,3 +53,46 @@ A publicly deployed URL shortening service designed to handle **millions of requ
 
 Each project will include:
 - Problem statement
+- Functional & non-functional requirements
+- High-Level Design (HLD)
+- Low-Level Design (LLD)
+- Architecture diagrams
+- API contracts
+- Database schema
+- Scaling strategy (from small to large traffic)
+- Failure scenarios & trade-offs
+- Deployment details
+- Metrics & performance observations
+
+---
+
+## Tech Stack (Expected)
+- Java / Spring Boot
+- REST APIs
+- Relational Databases (MySQL / PostgreSQL)
+- Redis
+- Messaging systems (Kafka / Queue)
+- Docker & Containers
+- Cloud deployment (AWS / Azure / similar)
+
+---
+
+## Philosophy
+> **Build simple → scale thoughtfully → document everything**
+
+This repository prioritizes:
+- Clarity over complexity
+- Design decisions over shortcuts
+- Real engineering trade-offs over textbook answers
+
+---
+
+## Status
+🛠️ **Planning & Learning Phase**  
+🚀 Implementation begins in **2026**
+
+---
+
+## Author
+**Sujal Sharma**  
+Backend Engineer | Java | System Design Enthusiast
